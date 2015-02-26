@@ -2,4 +2,12 @@ When would you want to use a remote repository rather than keeping your reposito
 
 You would use a remote repository when you are collaborating on a project with someone else, or you need to share your work with someone else.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+Branches are basically the progressive set of labelled commits that exist on your own computer, in your own repository, for your own code; Cloning a repository is essentially copying and downloading the repository and existing code of someone else, to your own computer.  Forking is basically the same, however, you are copying a repository to your repository hosted on GitHub, rather than pulling it to your own computer.  Any changes made to this code still link back to the original repository forked.  Branches are used for creating a new feature or fixing a bug in your own code that you are not ready to add to your final version--a trial version of sorts.  With forks and clones, you are using someone else's code with the intention of trying to make it better, or revising it in some way.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Not sure...can work on the code locally without having to be online?
+
+ 
