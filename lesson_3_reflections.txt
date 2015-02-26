@@ -17,3 +17,7 @@ Not sure...can work on the code locally without having to be online?
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Sending files back and forth, however it would be difficult to find the changes if you don't have version control to show you the changes.  Easier than remembering all of the commands correctly. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to use a different or separate branch rather than in the master, particularly if you are collaborating with someone else on the project.  This allows others to look at your code, provide feedback or corrections prior to the code being merged with the master.
