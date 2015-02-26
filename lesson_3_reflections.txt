@@ -10,4 +10,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Not sure...can work on the code locally without having to be online?
 
- 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Sending files back and forth, however it would be difficult to find the changes if you don't have version control to show you the changes.  Easier than remembering all of the commands correctly. 
